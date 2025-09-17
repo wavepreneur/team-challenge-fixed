@@ -1,0 +1,13 @@
+{
+    "name": "team-challenge-complete",
+    "version": "1.0.0",
+    "description": "Complete Team Challenge App - All in One",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "ws": "^8.18.0"
+    }
+}
